@@ -9,4 +9,7 @@ Express <br/>
 Sqlite <br/>
 KnexJS<br/>
 Cors<br/>
+ReactJS<br/>
+axios<br/>
+API<br/>
 
