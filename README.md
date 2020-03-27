@@ -12,4 +12,10 @@ Cors<br/>
 ReactJS<br/>
 axios<br/>
 API<br/>
-
+React-Native<br/>
+Jest<br/>
+SuperTest<br/>
+Expo<br/>
+Teste Unitário<br/>
+Teste de Integração<br/>
+Validação de dados
